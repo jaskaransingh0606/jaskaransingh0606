@@ -1,7 +1,11 @@
+
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=jaskaransingh0606&theme=highcontrast&hide_border=true)](https://git.io/streak-stats) -->
 <div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaskaransingh0606&label=Profile%20views&color=0e75b6&style=flat" alt="sabhisharma-ise" /> </p>
+
   <img src="https://streak-stats.demolab.com?user=jaskaransingh0606&theme=tokyonight&hide_border=true&border_radius=40&fire=1A9871" alt="Streak Stats" >
   <div>&nbsp;</div>
+  
   
   <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
